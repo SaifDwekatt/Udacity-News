@@ -1,0 +1,20 @@
+@import './header';
+@import './footer';
+@import './form';
+@import './main';
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header, footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+}
+
+main {
+    padding: 20px;
+}
